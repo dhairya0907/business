@@ -1,0 +1,31 @@
+{
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "cSpell.words": [
+        "anyio",
+        "certifi",
+        "dnspython",
+        "dotenv",
+        "fastapi",
+        "httpcore",
+        "httptools",
+        "httpx",
+        "idna",
+        "mdurl",
+        "orjson",
+        "pydantic",
+        "Pygments",
+        "shellingham",
+        "sniffio",
+        "starlette",
+        "typer",
+        "ujson",
+        "uvicorn",
+        "uvloop",
+        "watchfiles",
+        "websockets"
+    ]
+}
